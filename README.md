@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![image](https://count.getloli.com/@github:momoyuki?name=github%3Amomoyuki&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 <!--
 **momoyuki/momoyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
